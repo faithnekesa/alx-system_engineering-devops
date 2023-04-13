@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-alx-system_engineering-devops repo
+This is a readme file for shell basics
