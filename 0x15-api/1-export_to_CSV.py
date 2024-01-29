@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 """Script that exports TODO list progress of the employee ID
 passed in CSV format"""
+import csv
 import requests
 import sys
-import csv
 
 if __name__ == "__main__":
     user_id = sys.argv[1]
