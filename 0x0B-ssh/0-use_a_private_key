@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-# Script that connects to server52.91.131.190 with key in ~/.ssh/school
-
-ssh -i ~/.ssh/school ubuntu@52.91.131.190
