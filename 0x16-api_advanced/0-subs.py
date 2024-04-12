@@ -3,7 +3,8 @@
 
 
 def number_of_subscribers(subreddit):
-    """Function that queries reddit API and returns number of subs to subreddit"""
+    """Function that queries reddit API and returns number of
+subs to subreddit"""
     import requests
     url = "https://www.reddit.com/r/{}/about.json".format(subreddit)
     headers = {"User-Agent": "Mozilla/5.0"}
