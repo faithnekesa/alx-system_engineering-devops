@@ -1,3 +1,4 @@
+0x18. Webstack monitoring
 Sign up for Datadog - Please make sure you are using the US website of Datagog (https://app.datadoghq.com)
 Use the US1 region
 Install datadog-agent on web-01
